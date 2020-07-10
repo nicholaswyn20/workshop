@@ -1,1 +1,2 @@
-Bu bizim yeni dosyamız
+Komit edilecek dosya
+yeni satır eklendi
